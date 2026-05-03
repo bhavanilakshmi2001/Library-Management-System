@@ -1,0 +1,13 @@
+-- Using MySQL Workbench
+
+-- 1.Open MySQL Workbench.
+-- 
+-- 2.Connect to your MySQL server.
+-- 
+-- 3.Go to Server → Data Import.
+-- 
+-- 4.Select Import from Self-Contained File → choose your .sql file.
+-- 
+-- 5.Select the target schema (database) or create a new one.
+-- 
+-- 6.Click Start Import.
